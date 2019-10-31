@@ -12,4 +12,5 @@ yum groupinstall "Development Tools"
 yum install glibc-devel.i686   
 yum install libgcc.i686  
 
- 
+# Howto Make Image 
+make  
